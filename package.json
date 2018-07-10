@@ -1,0 +1,39 @@
+{
+  "name": "generator-ts-webpack-react",
+  "version": "0.1.0",
+  "description": "Absolutely minimal Typescript webpack react generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "react",
+    "typescript",
+    "webpack",
+    "minimal"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "fs": "0.0.1-security",
+    "git-clone": "^0.1.0",
+    "rimraf": "^2.6.2",
+    "underscore.string": "^3.3.4",
+    "yeoman-generator": "^3.0.0",
+    "yeoman-welcome": "^1.0.1"
+  },
+  "author": "Vaibhav Pujari",
+  "license": "ISC",
+  "main": "generators/app/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhav276/generator-ts-webpack-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vaibhav276/generator-ts-webpack-react/issues"
+  },
+  "homepage": "https://github.com/vaibhav276/generator-ts-webpack-react#readme"
+}
